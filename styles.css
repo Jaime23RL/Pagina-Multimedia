@@ -18,9 +18,10 @@ section {
     background-image: url("media/img/fondo.jpg");
 }
 
-article{
-    background-color: black;
+p {
+  color: #000000;
 }
+
 
 /*TODO      Estilos del nav                */
 .nav-link {
